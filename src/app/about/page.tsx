@@ -40,7 +40,7 @@ const About = () => {
                 </div>
 
 
-                <div className="md:ml-[80px]  md:w-[50%] w-full md:px-0  ">
+                <div className="md:ml-[80px]  md:w-[40%] w-full md:px-0  ">
                     <h4 className="text-(--main-text-color) font-bold text-lg mb-[10px]">MY INTERESTS</h4>
                     <div className="flex flex-wrap">
                         <Icons

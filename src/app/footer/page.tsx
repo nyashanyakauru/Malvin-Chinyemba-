@@ -177,7 +177,7 @@ const Footer: React.FC = () => {
               }}
             >
               <a
-                href="https://www.instagram.com/malvinchinyemba?igsh=YzljYTk1ODg3Zg== "
+                href="https://www.instagram.com/malvinchinyemba11?igsh=YzljYTk1ODg3Zg== "
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ color: "#374151", textDecoration: "none", display: "flex", alignItems: "center", gap: "0.5rem" }}
@@ -194,7 +194,7 @@ const Footer: React.FC = () => {
               }}
             >
               <a
-                href="https://www.facebook.com/share/1CP1fhNG1b/ "
+                href="https://www.facebook.com/share/1AtNwtezWE/ "
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ color: "#374151", textDecoration: "none", display: "flex", alignItems: "center", gap: "0.5rem" }}
