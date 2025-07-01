@@ -182,7 +182,7 @@ const Footer: React.FC = () => {
                 rel="noopener noreferrer"
                 style={{ color: "#374151", textDecoration: "none", display: "flex", alignItems: "center", gap: "0.5rem" }}
               >
-                <FaInstagram size={30}  className="text-white"/> <p className="text-(--text-color-gold)">LinkedIn</p>
+                <FaInstagram size={30}  className="text-white"/> <p className="text-(--text-color-gold)">Instagram</p>
               </a>
             </li>
             <li
