@@ -1,0 +1,18 @@
+@import  "tailwindcss";
+
+:root{
+ --main-background-color-dark-blue:#1b2535;
+ --nav-background-color-deep-grey: #373f42;
+ --text-color-gold:#ffd700;
+ --main-text-color:#ffffff;
+ --button-color-grey:#2c3437;
+ --second-theme-color:#D9D9D9;
+ --icon-color: #3e68b0;
+ --bg-color: #262831;
+ --bg-theme-color:#0A1325;
+ --second-theme: #030122;
+ --third-theme-color:#2C3457;
+ --forth-theme-color:#373F42;
+ --fifth-theme-color:#1B2535;
+
+}
