@@ -1,5 +1,5 @@
 import Card from "../card"
-import { FaLaptop, FaRocketchat, FaMailBulk, FaAddressCard, FaYoutube ,FaMailchimp, FaDesktop} from "react-icons/fa"
+import { FaLaptop, FaRocketchat, FaMailBulk, FaAddressCard, FaYoutube , FaDesktop} from "react-icons/fa"
 
 
 const Services = () => {

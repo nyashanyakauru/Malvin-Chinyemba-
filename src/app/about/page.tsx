@@ -1,7 +1,7 @@
-import { FaInfo, FaGamepad, FaFootballBall, FaHeadphones, FaPlane, FaCar, FaApple, FaGuitar, FaCoffee, FaMusic, FaDownload } from "react-icons/fa";
+import { FaInfo, FaGamepad, FaFootballBall, FaHeadphones, FaPlane, FaCar, FaApple, FaGuitar, FaCoffee,} from "react-icons/fa";
 import Button from "../button";
 import Icons from "../icons";
-import { FaF } from "react-icons/fa6";
+
 
 
 const About = () => {
@@ -19,7 +19,7 @@ const About = () => {
                     ABOUT ME
                 </span>
             </div>
-            <p className="  md:pl-[80px] md:mt-[15px] mt-[25px] md:px-0 px-5 text-(--main-text-color) font-light text-m "><span className=" text-(--text-color-gold)">Hey, I'm Malvin</span> - a passionate digital marketer who helps brand grow through creative content, smart strategies and real connections.
+            <p className="  md:pl-[80px] md:mt-[15px] mt-[25px] md:px-0 px-5 text-(--main-text-color) font-light text-m "><span className=" text-(--text-color-gold)">Hey, I&apos;m Malvin</span> - a passionate digital marketer who helps brand grow through creative content, smart strategies and real connections.
                 I focus on market that not only converts but truly connects. With every project, I bring energy, insight and results that matter. Lets build something impactfull together.
             </p>
             <div className=" md:flex md:pr-[80px] md:pl-[80px] md:mt-[35px]  mt-[35px] md:px-0 px-5 md:justify-between">
