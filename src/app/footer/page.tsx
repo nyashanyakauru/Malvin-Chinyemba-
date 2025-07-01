@@ -1,6 +1,6 @@
 "use client";
 import React, { useRef } from "react";
-import { FaAddressCard, FaWhatsapp, FaFacebook, FaInstagram} from "react-icons/fa";
+import { FaAddressCard, FaWhatsapp, FaInstagram, FaFacebook} from "react-icons/fa";
 import { MdEmail, MdPhone } from "react-icons/md";
 import Button from "../button";
 
@@ -182,7 +182,7 @@ const Footer: React.FC = () => {
                 rel="noopener noreferrer"
                 style={{ color: "#374151", textDecoration: "none", display: "flex", alignItems: "center", gap: "0.5rem" }}
               >
-                <FaFacebook size={30}  className="text-white"/> <p className="text-(--text-color-gold)">LinkedIn</p>
+                <FaInstagram size={30}  className="text-white"/> <p className="text-(--text-color-gold)">LinkedIn</p>
               </a>
             </li>
             <li
@@ -199,7 +199,7 @@ const Footer: React.FC = () => {
                 rel="noopener noreferrer"
                 style={{ color: "#374151", textDecoration: "none", display: "flex", alignItems: "center", gap: "0.5rem" }}
               >
-                <FaInstagram size={30}  className="text-white" /> <p className="text-(--text-color-gold)"> Instagram</p>
+                <FaFacebook size={30}  className="text-white" /> <p className="text-(--text-color-gold)"> Facebook</p>
               </a>
             </li>
           </ul>
