@@ -3,6 +3,7 @@ import React, { useRef } from "react";
 import { FaAddressCard, FaWhatsapp, FaInstagram, FaFacebook} from "react-icons/fa";
 import { MdEmail, MdPhone } from "react-icons/md";
 import Button from "../button";
+import { Link } from "react-router-dom";
 
 
 const PageHeader = ({
@@ -148,7 +149,7 @@ const Footer: React.FC = () => {
                 
               }}
             >
-              <MdPhone size={30} className="text-white"  /> +263 77 658 3679
+              <MdPhone size={30} className="text-white"  /><Link href="tel:+263776583679"></Link> +263 77 658 3679
             </li>
             <li
               style={{
