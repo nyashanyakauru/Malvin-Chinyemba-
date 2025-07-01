@@ -26,7 +26,7 @@ const About = () => {
                 <div className="W-[70%]">
                     <h4 className="text-(--main-text-color) font-bold text-lg mb-[10px]">PERSONAL DETAILS</h4>
                     <p className="text-(--second-theme-color) font-normal text-sm mr-[30px] md:mb-[35px] mb-[5px]">
-                        <span className="text-(--text-color-gold) font-bold text-sm">Nationality:</span> 05-10-2003
+                        <span className="text-(--text-color-gold) font-bold text-sm">D.O.B:</span> 05-10-2003
                     </p>
                     <p className="text-(--second-theme-color) font-normal text-sm mr-[30px] md:mb-[35px] mb-[5px]">
                         <span className="text-(--text-color-gold) font-bold text-sm">Phone:</span> +263 77 658 3679
