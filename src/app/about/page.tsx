@@ -35,7 +35,7 @@ const About = () => {
                         <span className="text-(--text-color-gold) font-bold text-sm">Email:</span> chinyembamalvin9@gmail
                     </p>
                     <p className="text-(--second-theme-color) font-normal text-sm mr-[30px] md:mb-[35px] mb-[25px]">
-                        <span className="text-(--text-color-gold) font-bold text-sm">Address:</span> 12304 Budirio, Harare, Zimbabwe
+                        <span className="text-(--text-color-gold) font-bold text-sm">Address:</span> 12304 Budiriro, Harare, Zimbabwe
                     </p>
                 </div>
 
